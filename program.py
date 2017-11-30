@@ -1,2 +1,2 @@
 #hhgf
-print('hell000000000')
+print('My first Git program')
